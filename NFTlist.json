@@ -1,13 +1,14 @@
 {
     "name": "HermitMatrixNetwork",
     "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg",
-    "keywords": ["NFT"],
     "tokens": [
       {
         "chainId": "ghm-testnet",
         "address": "ghm174kgn5rtw4kf6f938wm7kwh70h2v4vcf763ddr",
         "name": "Hermit Token List",
         "symbol": "HTL",
+        "description": "合约描述",
+        "type": "NFT",
         "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg"
       }
     ],
