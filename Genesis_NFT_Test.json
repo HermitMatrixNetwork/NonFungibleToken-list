@@ -1,0 +1,20 @@
+{
+    "name": "HermitMatrixNetwork",
+    "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg",
+    "tokens": [
+      {
+        "chainId": "ghm-testnet",
+        "address": "ghm18dt935pdcn2ka6l0syy5gt20wa48n3mkcuxnqf",
+        "name": "Hermit NFT",
+        "symbol": "HNFT",
+        "description": "隐私链上的第一款NFT",
+        "type": "NFT",
+        "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
