@@ -18,3 +18,46 @@
       "patch": 0
     }
   }
+
+{
+  "name": "Genesis#18",
+  "description": "The first NFT on the Hermit network, to commemorate Hermit's pioneers and thank them for their long-term persistence and followers.",
+  "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg",
+  "dna": "dc1b085eabd6ab84f764572b0a51b19fff6c4307",
+  "edition": 1,
+  "date": 1653413929452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Steel gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glared eye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Moxigan"
+    },
+    {
+      "trait_type": "Earring",
+      "value": ""
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unwilling"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Paster"
+    }
+  ]
+}
