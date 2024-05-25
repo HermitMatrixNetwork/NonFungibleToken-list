@@ -1,63 +1,68 @@
 {
-    "name": "HermitMatrixNetwork",
-    "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg",
-    "tokens": [
-      {
-        "chainId": "ghm-testnet",
-        "address": "ghm18dt935pdcn2ka6l0syy5gt20wa48n3mkcuxnqf",
-        "name": "Hermit NFT",
-        "symbol": "HNFT",
-        "description": "隐私链上的第一款NFT",
-        "type": "NFT",
-        "logoURI": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg"
-      }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    }
-  }
-
-{
   "name": "Genesis#18",
   "description": "The first NFT on the Hermit network, to commemorate Hermit's pioneers and thank them for their long-term persistence and followers.",
-  "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/HermitMatrixNetwork.svg",
-  "dna": "dc1b085eabd6ab84f764572b0a51b19fff6c4307",
+  "image": "https://raw.githubusercontent.com/HermitMatrixNetwork/NonFungibleToken-list/main/assets/Genesis_NFT/Genesis_NFT#18.png",
+  "dna": "",
   "edition": 1,
-  "date": 1653413929452,
-  "attributes": [
+  "date": 1717807043000,
+   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Steel gray"
+      "trait_type": "Owner",
+      "value": "Hermit Yun"
+    },
+    
+    {
+      "trait_type": "Key",
+      "value": "Star"
+    },
+    
+    {
+      "trait_type": "Special Ability",
+      "value": "Invisibility"
+    },
+    
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
     },
     {
-      "trait_type": "Fur",
-      "value": "Cow"
+      "trait_type": "Element",
+      "value": "Fire"
     },
+    
     {
-      "trait_type": "Clothes",
-      "value": "Fur sweater"
+      "trait_type": "Height",
+      "value": "2 meters"
     },
+    
     {
-      "trait_type": "Eyes",
-      "value": "Glared eye"
+      "trait_type": "Weapon",
+      "value": "Magic staff"
     },
+    
     {
-      "trait_type": "Hat",
-      "value": "Moxigan"
+      "trait_type": "Pet",
+      "value": "Unicorn"
     },
+    
     {
-      "trait_type": "Earring",
-      "value": ""
+      "trait_type": "Energy Source",
+      "value": "Stellar power"
     },
+    
     {
-      "trait_type": "Mouth",
-      "value": "Unwilling"
+      "trait_type": "Level",
+      "value": "Level 10"
     },
+    
     {
-      "trait_type": "Nose",
-      "value": "Paster"
+      "trait_type": "Energy Value",
+      "value": "5000"
+    },
+    
+    {
+      "trait_type": "Rarity Level",
+      "value": "Legendary"
     }
   ]
 }
