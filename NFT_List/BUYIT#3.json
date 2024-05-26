@@ -1,0 +1,68 @@
+{
+  "name": "BUY•OR•I•CUT•IT•OFF#3",
+  "description": "Buy or I cut it off !!!",
+  "image": "https://github.com/HermitMatrixNetwork/NonFungibleToken-list/raw/815fc75745212df1549ac03532324b6407759617/assets/Genesis_NFT/BUYIT.jpg",
+  "dna": "",
+  "edition": 1,
+  "date": 1717807043000,
+   "attributes": [
+    {
+      "trait_type": "Owner",
+      "value": "Hermit Yun"
+    },
+    
+    {
+      "trait_type": "Key",
+      "value": "Star"
+    },
+    
+    {
+      "trait_type": "Special Ability",
+      "value": "Invisibility"
+    },
+    
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    
+    {
+      "trait_type": "Height",
+      "value": "2 meters"
+    },
+    
+    {
+      "trait_type": "Weapon",
+      "value": "Magic staff"
+    },
+    
+    {
+      "trait_type": "Pet",
+      "value": "Unicorn"
+    },
+    
+    {
+      "trait_type": "Energy Source",
+      "value": "Stellar power"
+    },
+    
+    {
+      "trait_type": "Level",
+      "value": "Level 10"
+    },
+    
+    {
+      "trait_type": "Energy Value",
+      "value": "5000"
+    },
+    
+    {
+      "trait_type": "Rarity Level",
+      "value": "Legendary"
+    }
+  ]
+}
